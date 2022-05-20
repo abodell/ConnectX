@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cpsc2150.extendedConnectX.views","l":"ConnectXView"},{"p":"cpsc2150.extendedConnectX.views","l":"SetupView"}]
